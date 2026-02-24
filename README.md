@@ -9,7 +9,7 @@ A passionate **Developer** on an exciting journey to become a **Full Stack Devel
 - 🌱 **Currently on:** Backend development journey 
 - 💻 **Frontend expertise:** HTML, CSS, JavaScript, TypeScript, Tailwind, Bootstrap
 - 🎯 **Goal:** Become a well-rounded Full Stack Developer
-- 🔭 **Status:** Frontend Developer Intern - eager to learn and grow
+- 🔭 **Status:** Backend Developer Intern - eager to learn and grow
 - ⚡ **Fun fact:** I believe the best way to learn is by building real projects!
 
 ---
